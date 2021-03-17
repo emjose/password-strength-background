@@ -1,6 +1,6 @@
 <p id="project-title"><p>
 
-<a href=#table-of-contents>![Project Title](Assets/inter-006-password-strength.png)</a> 
+<a href=#table-of-contents>![Password Strength](Assets/inter-006-password-strength.png)</a> 
 
 #
 <p id="table-of-contents"><p>
