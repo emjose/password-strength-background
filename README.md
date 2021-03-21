@@ -1,8 +1,22 @@
+<p id="header"><p>
+<table><tr>
+<td> <a href="https://github.com/emjose/blurry-loading/#header"><img src="Assets/header-left.png" alt="previous" style="width: 200px;"/></a> </td>
+<td> <a href=#header><img src="Assets/header-center.png" alt="100 days of code" style="width: 580px;"/></a> </td>
+<td> <a href="https://github.com/emjose/kinetic-loader-1/#header"><img src="Assets/header-right.png" alt="next" style="width: 200px;"/></a> </td>
+</tr></table>
+
+<br>
+
 <p id="project-title"><p>
 
 <a href=#table-of-contents>![Password Strength](Assets/inter-006-password-strength.png)</a> 
 
+<br>
+
+<a href="https://emjose.github.io/">![Password Strength](Assets/preview-006-password-strength.png)</a> 
+
 #
+
 <p id="table-of-contents"><p>
 
 <a href=#table-of-contents>![Table of Contents](Assets/inter-toc.png)</a>  
@@ -19,16 +33,15 @@
 
 <a href=#table-of-contents>![#100DaysOfCode](Assets/inter-100hash.png)</a>  
 
-test\
-test
+<a href=#100days>![under construction](Assets/lorem-text.png)</a>
 
 #
 
 <p id="installation"><p>
 
 <a href=#table-of-contents>![Installation](Assets/inter-installation.png)</a>  
-test\
-test
+
+<a href=#installation>![under construction](Assets/lorem-text.png)</a>
 
 #
 
@@ -36,8 +49,7 @@ test
 
 <a href=#table-of-contents>![Demos](Assets/inter-demo.png)</a>  
 
-test\
-test
+<a href=#demo>![under construction](Assets/lorem-text.png)</a>
 
 #
 
@@ -45,8 +57,7 @@ test
 
 <a href=#table-of-contents>![Demos](Assets/inter-resources.png)</a>  
 
-test\
-test
+<a href=#resources>![under construction](Assets/lorem-text.png)</a>
 
 #
 
@@ -58,6 +69,6 @@ test
 
 #
 
-<a href=#project-title>![Back to Top](Assets/inter-congrats.png)</a>
+<a href=#header>![Back to Top](Assets/inter-congrats.png)</a>
 
 
