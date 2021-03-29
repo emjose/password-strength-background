@@ -34,7 +34,12 @@
 
 <a href=#100days>![#100DaysOfCode](Assets/inter-100hash.png)</a>  
 
-<a href=#100days>![Under Construction](Assets/lorem-text.png)</a>
+### Day 6: February 8, 2021
+- I made two mini projects with blurry-to-clear effects. See <a href="https://github.com/emjose/blurry-loading/#header">first project</a>.
+
+- In this project, the background becomes sharper as password strength increases.
+
+- This project was also my first introduction to <a href="https://tailwindcss.com/">Tailwind CSS</a> and its inline styling format.
 
 #
 
@@ -57,7 +62,7 @@ open index.html
 
 <a href="https://emjose.github.io/password-strength-background/">![Live Site](Assets/inter-live-site.png)</a>  
 
-<a href="https://emjose.github.io/password-strength-background/">![Under Construction](Assets/lorem-live.png)</a>
+<a href="https://emjose.github.io/password-strength-background/">![Live Site](Assets/006-password.gif)</a>
 
 #
 
@@ -65,7 +70,17 @@ open index.html
 
 <a href=#resources>![Resources](Assets/inter-resources.png)</a>  
 
-<a href=#resources>![Under Construction](Assets/lorem-text.png)</a>
+- #### [Tailwind CSS](https://tailwindcss.com/)
+
+- #### [Google Fonts](https://fonts.google.com/)
+
+- #### [Unsplash Stock Photos](https://unsplash.com/)
+
+- #### [50 Projects in 50 Days Udemy Course](https://www.udemy.com/course/50-projects-50-days/)
+
+- #### [Password Strength Background Tutorial](https://youtu.be/Ga5dOwAQj0o) by [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
+
+- #### [Blurry Loading YouTube Tutorial](https://youtu.be/kUHMRyUfdKw) by [Asish George Tech](https://www.youtube.com/channel/UC9v2BVgmJCQNN_RJKN6pZDw)
 
 #
 
