@@ -82,6 +82,8 @@ open index.html
 
 - #### [Blurry Loading YouTube Tutorial](https://youtu.be/kUHMRyUfdKw) by [Asish George Tech](https://www.youtube.com/channel/UC9v2BVgmJCQNN_RJKN6pZDw)
 
+- #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd) 
+
 #
 
 <p id="lets-connect"><p>
