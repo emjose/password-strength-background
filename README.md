@@ -50,13 +50,13 @@
 
 #### Git clone and cd into the repo folder:
 
-```
+```console
 git clone git@github.com:emjose/password-strength-background.git && cd password-strength-background
 ```
 
 #### Run the command:
 
-```
+```console
 open index.html
 ```
 
