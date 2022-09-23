@@ -68,11 +68,25 @@ button:focus {
 		transform: rotate(10deg);
 	}
 }
+
 @media (max-width: 500px) {
-	.github-corner:hover .octo-arm {
-		animation: none;
+	.github-corner {
+		display: none;
 	}
-	.github-corner .octo-arm {
-		animation: octocat-wave 560ms ease-in-out;
+
+	#login-box {
+		width: 300px;
+	}
+
+	#strength-title {
+		font-size: 20px;
+		margin-bottom: 12px;
+	}
+
+	.background {
+		top: 0;
+		bottom: 0;
+		left: 0;
+		right: 0;
 	}
 }

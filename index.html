@@ -13,23 +13,30 @@
 		<meta property="og:url" content="https://emjose.github.io/password-strength-background/" />
 		<meta property="og:type" content="website" />
 		<meta name="twitter:card" content="summary" />
+		<meta name="description"
+			content="A background comes into focus with increasing password strength. Click to visit website." />
+		<meta name="theme-color" content="#6db9e3" />
 		<meta name="keywords"
 			content="HTML, CSS, JavaScript, analog, login form, blurry background, password strength" />
 		<meta name="author" content="Emmanuel Jose" />
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/1.8.11/tailwind.min.css"
 			integrity="sha512-KO1h5ynYuqsFuEicc7DmOQc+S9m2xiCKYlC3zcZCSEw0RGDsxcMnppRaMZnb0DdzTDPaW22ID/gAGCZ9i+RT/w=="
 			crossorigin="anonymous" />
-		<link rel="stylesheet" href="style.css" />
 		<title>Password Strength Backround</title>
 		<link rel="icon" type="image/png" href="Assets/emmanuel-jose.ico" />
+		<link rel="apple-touch-icon" sizes="180x180" href="Assets/apple-touch-icon.png" />
+		<link rel="icon" type="image/png" sizes="32x32" href="Assets/favicon-32x32.png" />
+		<link rel="icon" type="image/png" sizes="16x16" href="Assets/favicon-16x16.png" />
+		<link rel="manifest" href="manifest.webmanifest" />
 		<link rel="canonical" href="https://emjose.github.io/password-strength-background/" />
+		<link rel="stylesheet" href="style.css" />
 	</head>
 
 	<body>
 
 		<div class="background" id="background"></div>
-		<div class="bg-white rounded p-6 text-center shadow-md">
-			<h1 class="text-3xl">Image Password Strength</h1>
+		<div class="bg-white rounded p-6 text-center shadow-md" id="login-box">
+			<h1 class="text-3xl" id="strength-title">Image Password Strength</h1>
 			<p class="text-sm text-gray-700">Change the password to see the effect</p>
 			<div class="my-4 text-left">
 				<label for="email" class="text-gray-900">Email:</label>
